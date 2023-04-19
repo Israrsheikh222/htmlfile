@@ -1,0 +1,16 @@
+.bg{
+background-image: url(./images/IMG_2795.JPG);
+background-color: brown;
+background-repeat: no-repeat;
+background-position: center;
+
+
+}
+.h1{
+font-size: 50px;
+font-family: 'Courier New', Courier, monospace;
+text-align: center;
+text-transform: capitalize;
+color: brown;
+background-image: url(images/IMG_2795.JPG);
+}
